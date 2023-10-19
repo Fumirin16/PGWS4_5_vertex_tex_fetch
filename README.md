@@ -10,7 +10,7 @@ src フォルダをUnityで開きます。
 
 ![結果画像3](result_3.gif)
 
-![結果画像](MyBest.mp4)
+https://github.com/Fumirin16/PGWS4_5_vertex_tex_fetch/assets/90897959/3d5050cf-9eab-4c5c-a537-856b6477a6bb
 
 ![シェーダグラフ](MyBestSG.png)
 
